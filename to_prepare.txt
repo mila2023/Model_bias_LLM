@@ -1,0 +1,6 @@
+powershell:
+
+winget install ollama
+ollama run llama3
+ollama run phi3
+pip install langchain langchain-community shap matplotlib pandas
