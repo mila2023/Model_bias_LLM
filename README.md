@@ -29,6 +29,7 @@
 
 ## OFICJALNE ZAŁOŻENIA PROJEKTU:
 W każdym projekcie zespół powinien:
+
 **1. Zdefiniować zadanie i dane**
 * Przygotować / dobrać min. 50–100 przykładów (promptów) z ręcznie nadanymi etykietami / oczekiwanymi odpowiedziami lub ocenami.
 * Zwięźle opisać domenę (co model ma robić i dla kogo).
