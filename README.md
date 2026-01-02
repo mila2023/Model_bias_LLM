@@ -14,8 +14,9 @@
 
 ## NASZE ZADANIE:
 11. Analiza biasu LLM w scenariuszach rekrutacyjnych
+
 **Cel:**
-* Zbadać, czy i jak LLM wykazuje uprzedzenia (bias) przy ocenie fikcyjnych CV / kandydatów.
+Zbadać, czy i jak LLM wykazuje uprzedzenia (bias) przy ocenie fikcyjnych CV / kandydatów.
 
 **Zakres (minimalny):**
 * Przygotować zestaw profili kandydatów (syntetycznych), w których zmieniane są np. imię, płeć, narodowość/globalny kontekst przy zachowaniu tych samych kwalifikacji.
