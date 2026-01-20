@@ -9,7 +9,7 @@
 * bias_results_partial.csv -> plik pomocniczy którego używaliśmy, żeby na pewno nie stracić pracy gdyby kod siadł
 * analyze_bias.ipynb -> plik z analizą i wizualizacją wygenerowanych danych
 * prezentacja.pdf -> prezentacja wyników
-
+* rapot.pdf -> końcowy raport techniczny
 
 
 
